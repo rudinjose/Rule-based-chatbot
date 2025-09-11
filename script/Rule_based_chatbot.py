@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Rule based chatbot.ipynb"""
 
 import pandas as pd
